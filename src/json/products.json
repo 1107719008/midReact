@@ -1,0 +1,138 @@
+[
+    {
+        "id":"1",
+        "image":"/image/list/class1.png",
+        "title":"抹茶控的第一堂課",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1",
+
+        "class_cover":"/image/products/class1/cover.png",
+        "class_name":"抹茶控的第一堂課 | 十款職人級抹茶甜點在家輕鬆上桌",
+        "class_price":"NT 2,680",
+        "class_bought":"已購買人數  1,241  人",
+        "class_time":"預計 2021/07/15 開課",
+        "class_introduction":[
+            "Lesson 1 威力與抹茶",
+            "1-1 課程綜覽：嗨！我是威力",
+            "1-2 威力的抹茶觀",
+            "Lesson 2 抹茶的小故事",
+            "2-1 抹茶的定義：你吃到的真的是抹茶？",
+            "2-2 抹茶熱潮與市場狀態",
+            "Lesson 3 原料實驗室",
+            "3-1 抹茶實驗室 1-各大品牌簡介",
+            "3-2 抹茶實驗室 2-抹茶粉測評",
+            "3-3 抹茶實驗室 3-總結：到底哪家抹茶粉最萬用？評比大統整！",
+            "3-4 奶油乳酪實驗室：熱門奶油乳酪品牌風味評比",
+            "3-5 鮮奶油實驗室：常見鮮奶油品牌風味評比"
+        ],
+        "class_image":[
+            "/image/products/class1/image1.png",
+            "/image/products/class1/image2.png"
+        ]
+    },
+    {
+        "id":"2",
+        "image":"/image/list/class2.png",
+        "title":"手沖咖啡學",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1",
+
+        "class_cover":"/image/products/class2/cover.png",
+        "class_name":"手沖咖啡學｜搞懂原理，成為咖啡職人",
+        "class_price":"NT 1,880",
+        "class_bought":"已購買人數  1,021  人",
+        "class_time":"預計 2021/07/15 開課",
+        "class_introduction":[
+            "Lesson 1 手沖咖啡基本器具介紹",
+            "認識咖啡器具各種基本知識、手沖咖啡基本流程",
+            "Lesson 2 濾杯對風味的影響",
+            "認識影響風味的關鍵因素：濾杯，剖析風味、肋骨、流速與濾杯的關係",
+            "Lesson 3 適合初學者的手沖法：一刀流",
+            "不用悶蒸、斷水的一刀流沖煮法，利用簡單的沖法，得到想要的味道",
+            "Lesson 4 悶蒸的原理與調整方法",
+            "完整解析悶蒸原理，讓你學會不再失敗的悶蒸手法",
+            "Lesson 5 推粉法與風味調整：萃取咖啡的酸與甜",
+            "學習推粉法、繞圈圈和打通水道原理，並掌握果酸、甜感、Body和風味的變化",
+            "Lesson 6 影響風味的關鍵：濾泡v.s浸泡",
+            "認識影響風味的關鍵：濾泡與浸泡，學習中心注水和層次沖法，打造手沖重量層次"
+        ],
+        "class_image":[
+            "/image/products/class2/image1.png",
+            "/image/products/class2/image2.png"
+        ]
+    },
+    {
+        "id":"3",
+        "image":"/image/list/class3.png",
+        "title":"兩分鐘搞懂全球經濟",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1",
+
+        "class_cover":"/image/products/class3/cover.png",
+        "class_name":"藍諾導演的Premiere剪輯心法- 18個單元帶你剪出高質感",
+        "class_price":"NT 1,680",
+        "class_bought":"已購買人數  2,011  人",
+        "class_time":"預計 2021/07/15 開課",
+        "class_introduction":[
+            "單元 1『課程介紹』- 如何成為“好的剪接師”& 為什麼選用Premiere Pro",
+            "單元 2 『工作區域規劃』- 複雜的介面經過整理就能成為你的專屬實驗室",
+            "單元 3 『打開工具箱』-Premiere 內建工具該如何使用",
+            "單元 4 『一定要學的快捷鍵』-讓手指跟上腦袋，讓你更快速操作!",
+            "單元 5 『檔案管理＆備份保護』- 好的檔案分類可以增加作決定的速度",
+            "單元 6 『基本特效』- 實際步驟（字幕、Scaling、Keyframe設定...等）",
+            "單元 7 『進階特效』- 實際步驟（字卡設計、Speed Ramp、Masking...等）",
+            "單元 8 『如何選好音樂』-瞭解音樂及音效如何設計（BONUS 水下音效）",
+            "單元 9 『顏色決定心情』-基本對色、調色、常見風格模擬（日系/好萊塢）",
+            "單元 10 『用畫面製造關聯』- AB Roll 的正確用法、如何用B-Roll掩飾缺點",
+            "單元 11 『完成輸出』- 客戶要求 / 社群媒體 / IG 專用輸出模式"
+        ],
+        "class_image":[
+            "/image/products/class3/image1.png",
+            "/image/products/class3/image2.png"
+        ]
+    },{
+        "id":"4",
+        "image":"/image/class1.png",
+        "title":"兩分鐘搞懂全球經濟",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1"
+    },
+    {
+        "id":"5",
+        "image":"/image/class2.png",
+        "title":"兩分鐘搞懂全球經濟",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1"
+    },
+    {
+        "id":"6",
+        "image":"/image/class3.png",
+        "title":"兩分鐘搞懂全球經濟",
+        "price":"200",
+        "lecturer":"Cccbbb",
+        "student":"6",
+        "stars":"2",
+        "comments":"3",
+        "avaliable":"1"
+    }
+]
