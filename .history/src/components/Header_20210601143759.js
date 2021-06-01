@@ -46,7 +46,7 @@ export default function Header(){
                         />
                     </Link>
                 </Button>
-                <Link to ={'Login'}>
+                <Link to ="/">
                 <Button className="header-btn-login header-btn-login text-white">
                     <img
                     className="header-phone-burger-btn"

@@ -46,16 +46,13 @@ export default function Header(){
                         />
                     </Link>
                 </Button>
-                <Link to ={'Login'}>
                 <Button className="header-btn-login header-btn-login text-white">
                     <img
                     className="header-phone-burger-btn"
                     src="/image/header/burger.png"
                     />
-
                     <div className="header-btn-name">登入</div>
-                </Button>
-                 </Link>   
+                </Button>    
             </div>
         </div>
     )

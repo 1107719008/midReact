@@ -55,7 +55,6 @@ export const cartItemRemove = (dispatch, productId) => {
         payload: productId,
     });
 };
-//login
 export const loginToFirebase = async (dispatch, userInfo) => {
     dispatch({ type: BEGIN_LOGIN_REQUEST });
     try {
