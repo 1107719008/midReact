@@ -101,7 +101,7 @@ const LoginCard = ({ redirect }) => {
             Log in
           </Button>
         )}
-        Or <Link to={"/register?redirect=/"}>register now!</Link>
+        Or <Link to={"/register?redirect=shipping"}>register now!</Link>
         {error === "" ? (
           <></>
         ) : (

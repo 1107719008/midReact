@@ -44,15 +44,11 @@ export default function Header() {
                 </Button>
             </div>
 
-
             <UserInfo style={{marginRight: '20px'}} />
-            
-
             {userInfo
                 ? <p style={{ marginLeft: 100, fontSize: 24, }}>{userInfo.displayName}'s</p>
                 : <p></p>
             }
-
 
             <div className="header-btn-right">
                 <Button className="header-btn header-btn-cart">

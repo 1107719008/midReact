@@ -24,13 +24,14 @@ export default function UserInfo(props) {
       <>
          <nav onClick={goToProfile} style={{ ...props.style }} className="header-cart-summary" >
             {userInfo
-               ? <UserOutlined style={{ fontSize: '20px', color: '#ccc' }} />
-               : <UserSwitchOutlined style={{ fontSize: '20px', color: '#ccc' }} />
+               ? <UserOutlined style={{ fontSize: '20px', color: '#ddd' }} />
+               : <UserSwitchOutlined style={{ fontSize: '20px', color: '#ddd' }} />
+
             }
             <p className="cart-summary-text">
                {userInfo
                   ? `${userInfo.displayName}'s`
-                  : `訪客`
+                  : `請登入`
                }
             </p>
          </nav>

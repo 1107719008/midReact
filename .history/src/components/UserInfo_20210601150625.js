@@ -26,11 +26,12 @@ export default function UserInfo(props) {
             {userInfo
                ? <UserOutlined style={{ fontSize: '20px', color: '#ccc' }} />
                : <UserSwitchOutlined style={{ fontSize: '20px', color: '#ccc' }} />
+
             }
             <p className="cart-summary-text">
                {userInfo
                   ? `${userInfo.displayName}'s`
-                  : `訪客`
+                  : `請登入`
                }
             </p>
          </nav>

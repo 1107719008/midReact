@@ -167,7 +167,7 @@ const RegisterCard = ({ redirect }) => {
           </Button>
         )}
          Already have an account?{" "}
-        <Link to={"/login?redirect=/"}>Login</Link>
+        <Link to={"/login?redirect=shipping"}>Login</Link>
         {error === "" ? (
           <></>
         ) : (
